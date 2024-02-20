@@ -14,19 +14,19 @@
     </dependencies>
     
     <build>
-        <sourceDirectory>src\main\resources</sourceDirectory>
+         <sourceDirectory>\MathUtils</sourceDirectory>
         <resources>
             <resource>
-                <directory>src/main/resources</directory>
+                <directory>\MathUtils</directory>
             </resource>
         </resources>
-        <testSourceDirectory>src\test\resources</testSourceDirectory>
+        <testSourceDirectory>\MathUtilsTest</testSourceDirectory>
         <testResources>
             <testResource>
-                <directory>src\test\resources</directory>
+                <directory>\MathUtilsTest</directory>
             </testResource>
         </testResources>
-        <outputDirectory>target/classes</outputDirectory>
+	    <outputDirectory>target/classes</outputDirectory>
         <testOutputDirectory>target/test-classes</testOutputDirectory>
         <plugins>
             <plugin>
