@@ -18,6 +18,8 @@
 	    <scope>test</scope>
 		</dependency>
     	<dependencies>
+
+	<dependencies>
 	<dependency>
     <groupId>MathUtils</groupId>
     <artifactId>Mathutils</artifactId>
