@@ -20,16 +20,16 @@
 	</dependencies>
 
     <build>
-         <sourceDirectory>C:\ProgramData\Jenkins\.jenkins\workspace\Mathutils\</sourceDirectory>
+         <sourceDirectory>C:\Users\chandramouli.y\Documents\GitHub\MathUtils\src\main\java</sourceDirectory>
         <resources>
             <resource>
-                <directory>C:\ProgramData\Jenkins\.jenkins\workspace\Mathutils\</directory>
+                <directory>C:\Users\chandramouli.y\Documents\GitHub\MathUtils\src\main\java</directory>
             </resource>
         </resources>
-        <testSourceDirectory>C:\ProgramData\Jenkins\.jenkins\workspace\Mathutils\</testSourceDirectory>
+        <testSourceDirectory>C:\Users\chandramouli.y\Documents\GitHub\MathUtils\src\test\java</testSourceDirectory>
         <testResources>
             <testResource>
-                <directory>C:\ProgramData\Jenkins\.jenkins\workspace\Mathutils\</directory>
+                <directory>C:\Users\chandramouli.y\Documents\GitHub\MathUtils\src\test\java</directory>
             </testResource>
         </testResources>
 	    <outputDirectory>target/classes</outputDirectory>
