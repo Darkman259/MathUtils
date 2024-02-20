@@ -4,8 +4,9 @@ import org.junit.Before;
 import org.junit.Test;
 
 public class MathUtilsTest
-public MathUtils mathUtils;
+
 {
+private MathUtils mathUtils;
 
 @Before 
  public void setUp ()
