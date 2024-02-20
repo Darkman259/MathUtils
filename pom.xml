@@ -10,11 +10,11 @@
     <name>MathUtils</name>
     <description>mathematical operations</description>
 	
-    <dependency>
+    <dependencies>
     <groupId>junit</groupId>
     <artifactId>junit</artifactId>
     <version>4.11</version> <!-- Or whatever JUnit you're using. -->
-</dependency>
+</dependencies>
 	
 	<dependencies>
     <groupId>MathUtils</groupId>
