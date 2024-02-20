@@ -23,13 +23,13 @@
          <sourceDirectory>C:\ProgramData\Jenkins\.jenkins\workspace\Mathutils\src\main\java</sourceDirectory>
         <resources>
             <resource>
-                <directory>C:\ProgramData\Jenkins\.jenkins\workspace\Mathutils\src\main\java</directory>
+                <directory></directory>
             </resource>
         </resources>
         <testSourceDirectory>C:\ProgramData\Jenkins\.jenkins\workspace\Mathutils\src\test</testSourceDirectory>
         <testResources>
             <testResource>
-                <directory>C:\ProgramData\Jenkins\.jenkins\workspace\Mathutils\src\test</directory>
+                <directory></directory>
             </testResource>
         </testResources>
 	    <outputDirectory>target/classes</outputDirectory>
