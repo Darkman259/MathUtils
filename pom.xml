@@ -20,10 +20,10 @@
                 <directory>C:\ProgramData\Jenkins\.jenkins\workspace\Mathutils\MathUtils.java</directory>
             </resource>
         </resources>
-        <testSourceDirectory>C:\ProgramData\Jenkins\.jenkins\workspace\Mathutils\MathUtilsTest.java</testSourceDirectory>
+        <testSourceDirectory>C:\ProgramData\Jenkins\.jenkins\workspace\Mathutils\</testSourceDirectory>
         <testResources>
             <testResource>
-                <directory>C:\ProgramData\Jenkins\.jenkins\workspace\Mathutils\MathUtilsTest.java</directory>
+                <directory>C:\ProgramData\Jenkins\.jenkins\workspace\Mathutils\</directory>
             </testResource>
         </testResources>
 	    <outputDirectory>target/classes</outputDirectory>
