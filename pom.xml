@@ -9,10 +9,16 @@
     
     <name>MathUtils</name>
     <description>mathematical operations</description>
-    
-	<dependencies>
+	
+    <dependency>
     <groupId>junit</groupId>
     <artifactId>junit</artifactId>
+    <version>4.11</version> <!-- Or whatever JUnit you're using. -->
+</dependency>
+	
+	<dependencies>
+    <groupId>MathUtils</groupId>
+    <artifactId>Mathutils</artifactId>
     <version>4.13.2</version>
     <scope>test</scope>
     </dependencies>
