@@ -25,4 +25,4 @@ class Test_Math_Utils:
         assert math_utils.divide(10, 5) == 2.0
         assert math_utils.divide(5, 2) == 2.5
         assert math_utils.divide(0, 5) == 0.0
-        assert math_utils.divide(10, 0) == -1.0  # Division by zero returns -1.0
+        assert math_utils.divide(10, 0) == -1.0
