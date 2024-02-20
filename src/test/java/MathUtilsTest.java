@@ -6,7 +6,7 @@ import org.junit.Test;
 public class MathUtilsTest
 
 {
-private MathUtils MathUtils;
+private MathUtils mathUtils;
 
 @Before 
  public void setUp ()
