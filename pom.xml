@@ -3,14 +3,18 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     
-    <groupId>Junit</groupId>
-    <artifactId>Junit</artifactId>
+    <groupId>MathUtils</groupId>
+    <artifactId>MathUtils</artifactId>
     <version>1.0.0</version>
     
     <name>MathUtils</name>
     <description>mathematical operations</description>
     
 	<dependencies>
+    <groupId>junit</groupId>
+    <artifactId>junit</artifactId>
+    <version>4.13.2</version>
+    <scope>test</scope>
     </dependencies>
     
     <build>
