@@ -10,13 +10,14 @@
     <name>MathUtils</name>
     <description>mathematical operations</description>
 
+	<dependencies>
 	<dependency>
     <groupId>junit</groupId>
     <artifactId>junit</artifactId>
     <version>4.13.2</version> -- Testcode
     <scope>test</scope>
 </dependency>
-
+	</dependencies>
 
     <build>
          <sourceDirectory>C:\ProgramData\Jenkins\.jenkins\workspace\Mathutils\</sourceDirectory>
