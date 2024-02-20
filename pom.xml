@@ -12,8 +12,8 @@
 
 	<dependencies>
 	<dependency>
-    <groupId>MathUtils</groupId>
-    <artifactId>Mathutils</artifactId>
+    <groupId>MathUtils.java</groupId>
+    <artifactId>Mathutils.java</artifactId>
     <version>1.0.0</version>
 	 </dependency>
 		<dependency>
