@@ -1,3 +1,5 @@
+package src.main.java;
+
 public class MathUtils {
 
     public int add(int a, int b) {
