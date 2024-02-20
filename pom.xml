@@ -14,10 +14,10 @@
     </dependencies>
     
     <build>
-         <sourceDirectory>C:\ProgramData\Jenkins\.jenkins\workspace\Mathutils\MathUtils.java</sourceDirectory>
+         <sourceDirectory>C:\ProgramData\Jenkins\.jenkins\workspace\Mathutils\</sourceDirectory>
         <resources>
             <resource>
-                <directory>C:\ProgramData\Jenkins\.jenkins\workspace\Mathutils\MathUtils.java</directory>
+                <directory>C:\ProgramData\Jenkins\.jenkins\workspace\Mathutils\</directory>
             </resource>
         </resources>
         <testSourceDirectory>C:\ProgramData\Jenkins\.jenkins\workspace\Mathutils\</testSourceDirectory>
