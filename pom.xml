@@ -14,16 +14,16 @@
     </dependencies>
     
     <build>
-         <sourceDirectory>\MathUtils</sourceDirectory>
+         <sourceDirectory>C:\ProgramData\Jenkins\.jenkins\workspace\Mathutils\MathUtils.java</sourceDirectory>
         <resources>
             <resource>
-                <directory>\MathUtils</directory>
+                <directory>C:\ProgramData\Jenkins\.jenkins\workspace\Mathutils\MathUtils.java</directory>
             </resource>
         </resources>
-        <testSourceDirectory>\MathUtilsTest</testSourceDirectory>
+        <testSourceDirectory>C:\ProgramData\Jenkins\.jenkins\workspace\Mathutils\MathUtilsTest.java</testSourceDirectory>
         <testResources>
             <testResource>
-                <directory>\MathUtilsTest</directory>
+                <directory>C:\ProgramData\Jenkins\.jenkins\workspace\Mathutils\MathUtilsTest.java</directory>
             </testResource>
         </testResources>
 	    <outputDirectory>target/classes</outputDirectory>
