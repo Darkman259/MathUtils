@@ -17,13 +17,14 @@
     <version>4.11</version>
 	    <scope>test</scope>
 		</dependency>
- <dependency>
+    	<dependencies>
+	<dependency>
     <groupId>MathUtils</groupId>
     <artifactId>Mathutils</artifactId>
     <version>1.0.0</version>
 	 </dependency>
-    </dependencies>
-    
+ </dependencies>
+
     <build>
          <sourceDirectory>C:\ProgramData\Jenkins\.jenkins\workspace\Mathutils\</sourceDirectory>
         <resources>
