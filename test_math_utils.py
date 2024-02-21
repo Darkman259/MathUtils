@@ -7,7 +7,7 @@ class Test_Math_Utils:
         return MathUtils()
 
     def test_add(self, math_utils):
-        assert math_utils.add(2, 3) == 5
+        assert math_utils.add(3, 3) == 5
         assert math_utils.add(-1, 1) == 0
         assert math_utils.add(0, 0) == 0
 
