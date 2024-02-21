@@ -1,15 +1,7 @@
-pipeline {
-  agent any
-  stages {
-    stage('version') {
-      steps {
-        sh 'python3 --version'
-      }
-    }
-    stage('test_math_utils') {
-      steps {
-        sh 'test_math_utils.py'
-      }
-    }
-  }
-}
+import pytest
+
+def run_tests():
+    pytest.main(['test_math_utils.py'])
+
+if __name__ == "__main__":
+    run_tests()
