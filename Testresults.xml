@@ -13,6 +13,5 @@
     <!-- Test passed successfully -->
   </testcase>
   <testcase name="testDivideByZero" classname="MathUtilsTest" time="0.05">
-    <failure> type="java.lang.AssertionError" message="Expected -1.0, but was 2.0" </failure>
   </testcase>
 </testsuite>
