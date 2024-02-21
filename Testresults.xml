@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.MathUtilsTest" tests="4" failures="1" errors="0" skipped="0" time="0.123" timestamp="2022-02-16T12:34:56">
+    <properties>
+        <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+        <!-- Other properties... -->
+    </properties>
+    <testcase name="testAdd" classname="com.example.MathUtilsTest" time="0.02"/>
+    <testcase name="testSubtract" classname="com.example.MathUtilsTest" time="0.03">
+        <failure message="Expected: 2, Actual: 1">java.lang.AssertionError: Expected: 2, Actual: 1
+            at org.junit.Assert.fail(Assert.java:88)
+        </failure>
+    </testcase>
+    <testcase name="testMultiply" classname="com.example.MathUtilsTest" time="0.01"/>
+    <testcase name="testDivide" classname="com.example.MathUtilsTest" time="0.02"/>
+</testsuite>
