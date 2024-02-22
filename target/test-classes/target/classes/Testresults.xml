@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MathUtilsTest" tests="1" failures="0" errors="0" skipped="0" timestamp="2022-02-16T12:00:00" time="0.001">
+  <testcase name="testAdd" classname="MathUtilsTest" time="0.01">
+    <failure type="java.lang.AssertionError" message="Add failed">
+    </failure>
+  </testcase>
+  <testcase name="testSubtract" classname="MathUtilsTest" time="0.02">
+     <failure type="java.lang.AssertionError" message="Subtract failed">
+    </failure>
+  </testcase>
+  <testcase name="testMultiply" classname="MathUtilsTest" time="0.03">
+     <failure type="java.lang.AssertionError" message="Multiply failed">
+    </failure>
+  </testcase>
+  <testcase name="testDivide" classname="MathUtilsTest" time="0.04">
+     <failure type="java.lang.AssertionError" message="Divide failed">
+    </failure>
+  </testcase>
+  <testcase name="testDivideByZero" classname="MathUtilsTest" time="0.05">
+     <failure type="java.lang.AssertionError" message="DivideByZero failed">
+    </failure>
+  </testcase>
+</testsuite>

@@ -21,13 +21,13 @@
 	</dependencies>
 
     <build>
-         <sourceDirectory>C:\ProgramData\Jenkins\.jenkins\workspace\Mathutils\src\main\java</sourceDirectory>
+         <sourceDirectory>C:\ProgramData\Jenkins\.jenkins\workspace\Mathutilstest\src\main\java</sourceDirectory>
         <resources>
             <resource>
                 <directory></directory>
             </resource>
         </resources>
-        <testSourceDirectory>C:\ProgramData\Jenkins\.jenkins\workspace\Mathutils\src\test</testSourceDirectory>
+        <testSourceDirectory>C:\ProgramData\Jenkins\.jenkins\workspace\Mathutilstest\src\test</testSourceDirectory>
         <testResources>
             <testResource>
                 <directory></directory>
