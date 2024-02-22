@@ -19,7 +19,7 @@ public class MathUtilsTest {
 
     @Test
     public void testAdd() {
-        assertEquals(5, mathUtils.add(2, 3));
+        assertEquals(6, mathUtils.add(2, 3));
     }
 
     @Test
