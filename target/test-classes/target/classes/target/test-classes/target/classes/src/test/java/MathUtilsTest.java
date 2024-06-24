@@ -5,6 +5,7 @@ import static org.junit.Assert.*;
 
 
 //basic test class for mathutil
+
 public class MathUtilsTest {
 
     private MathUtils mathUtils;
